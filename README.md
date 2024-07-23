@@ -1,6 +1,15 @@
 # film_app
 
-A new Flutter project.
+# Masih Tahap Pembelajaran
+Deskripsi: Aplikasi “film_app” adalah proyek Flutter yang memungkinkan pengguna untuk menelusuri informasi tentang film dan acara TV. Aplikasi ini terhubung dengan API IMDb (Internet Movie Database) untuk mengambil data seperti judul film, sinopsis, pemain, peringkat, dan lainnya.
+
+Fitur Utama:
+
+Pencarian Film: Pengguna dapat mencari film berdasarkan judul atau kata kunci tertentu.
+Detail Film: Setelah memilih film, pengguna dapat melihat detail lengkap, termasuk sinopsis, sutradara, dan pemain.
+Daftar Favorit: Pengguna dapat menandai film sebagai favorit dan mengaksesnya kembali di bagian favorit.
+Peringkat Film: Aplikasi menampilkan peringkat IMDb untuk setiap film.
+Tampilan Menarik: Desain antarmuka yang responsif dan menarik.
 
 ## Getting Started
 
